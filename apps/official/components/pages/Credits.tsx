@@ -52,16 +52,15 @@ export const Credits = () => {
               </Grid>
             </Grid>
           </div>
-          <Typography variant="body1">
+          <Typography variant="h2">
             <p>
               CovMap ist ein Gemeinschaftsprojekt der Charité, des Hasso-Plattner-Instituts (HPI) und der Firma
               NETCHECK.
             </p>
-            Projektleitung Charité: Dr. med. Alexander H. Thieme, M. Sc., Gesamtkonzept, Datenanalyse Symptome, CovMap
+            Projektleiter Charité: Dr. med. Alexander H. Thieme, M. Sc., Gesamtkonzept, Datenanalyse Symptome, CovMap Softwareentwicklung <br />
+            Projektleiter HPI: Prof. Dr. Christoph Lippert, Datenanalyse, Modellerstellung, Prognosen
             <br />
-            Softwareentwicklung Projektleitung HPI: Prof. Dr. Christoph Lippert, Datenanalyse, Prognosemodelle
-            <br />
-            Projektleitung NETCHECK: PD. Dr. Sten Rüdiger, Datenanalyse GPS-Daten, Kontakt-Index
+            Projektleiter NETCHECK: PD. Dr. Sten Rüdiger, Datenanalyse, GPS-Daten, Kontakt-Index
             <br />
           </Typography>
         </section>
@@ -72,7 +71,7 @@ export const Credits = () => {
           </Typography>
 
           <section>
-            <Typography variant="h2">Wir Danken den Unternehmen</Typography>
+            <Typography variant="h2">Wir Danken den Unternehmen:<br /></Typography>
             <Typography variant="body1">
               <div className={classes.root}>
                 <Grid container spacing={3}>
