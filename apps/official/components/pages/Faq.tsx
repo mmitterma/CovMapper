@@ -175,7 +175,7 @@ export const Faq: React.FC = () => {
           <Typography style={{ width: "100%" }}>
             <div style={{ display: "flex", flexDirection: "column" }}>
               <div className={classes.textBlock}>
-                Damit das Virus übertragen werden kann, müssen sich Menschen begegnen. Wenige Tage nach der Infektion
+                TEST Damit das Virus übertragen werden kann, müssen sich Menschen begegnen. Wenige Tage nach der Infektion
                 berichten viele infizierte Personen über Symptome. Damit stellen der Kontakt zwischen Menschen und das
                 Bemerken von Symptomen die zwei frühesten beobachtbaren Ereignisse einer Infektion dar. Hier setzt die
                 CovMap an.
